@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+</resources>

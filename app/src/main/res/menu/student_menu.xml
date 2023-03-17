@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_student"
+        android:title="Add New Student" />
+    <item
+        android:id="@+id/show_Calender"
+        android:title="Change Date" />
+    <item
+        android:id="@+id/show_attendance_sheet"
+        android:title="Attendance Sheet" />
+</menu>
